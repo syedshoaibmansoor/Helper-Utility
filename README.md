@@ -1,6 +1,9 @@
 # Helper-Utility
 This Utility helps people speed up their workflow with most used shortcuts in a separate Editor Window.
 
+# Helper Utility Window
+Go to Utilities -> Helper Utility to see the Helper Utility Window in the Menu Bar
+
 # Scene Switcher
 - Scene Switcher is designed to quickly switch through scenes that you have added in your projects build settings.
 - Scene Switcher will show a dialog box in case you have any unsaved changes in your scene.
