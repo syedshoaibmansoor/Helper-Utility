@@ -2,7 +2,7 @@
 This Utility helps people speed up their workflow with most used shortcuts in a separate Editor Window.
 
 # Download Unity Package Here:
-[Unity Package V1.0](https://github.com/syedshoaibmansoor/Project-Readmes/raw/main/HelperUtility/Builds/HelperUtility_v1.0.unitypackage)
+[Helper Utility V1.0](https://github.com/syedshoaibmansoor/Project-Readmes/raw/main/HelperUtility/Builds/HelperUtility_v1.0.unitypackage)
 
 # Helper Utility Window
 Go to Utilities -> Helper Utility to see the Helper Utility Window in the Menu Bar
