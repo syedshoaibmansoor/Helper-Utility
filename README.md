@@ -16,3 +16,9 @@ Go to Utilities -> Helper Utility to see the Helper Utility Window in the Menu B
 - If you are storing any data in your persitent data path then you can simply open the folder and see what data is present in Finder/Explorer.
 
 ![](https://github.com/syedshoaibmansoor/Project-Readmes/blob/main/HelperUtility/SaveDataSettings.gif)
+
+# Canvas UI Settings
+## Scene Font Changer
+- You can change all your Text/TextMeshProUGUI fonts to any font that you have selected.
+
+![](https://github.com/syedshoaibmansoor/Project-Readmes/blob/main/HelperUtility/SceneFontChanger.gif)
