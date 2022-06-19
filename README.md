@@ -6,4 +6,4 @@ This Utility helps people speed up their workflow with most used shortcuts in a 
 - Scene Switcher will show a dialog box in case you have any unsaved changes in your scene.
 - If you want to find where your scenes are in the project heirarchy you can simply click on the Select button next to each Scene buttons.
 
-![](https://github.com/syedshoaibmansoor/Project-Readmes/blob/main/HelperUtility/SceneSwitching.gif)
+![](https://github.com/syedshoaibmansoor/Project-Readmes/blob/main/HelperUtility/SceneSwitcher.gif)
