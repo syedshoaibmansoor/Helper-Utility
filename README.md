@@ -22,3 +22,13 @@ Go to Utilities -> Helper Utility to see the Helper Utility Window in the Menu B
 - You can change all your Text/TextMeshProUGUI fonts to any font that you have selected.
 
 ![](https://github.com/syedshoaibmansoor/Project-Readmes/blob/main/HelperUtility/SceneFontChanger.gif)
+
+# Player Settings
+All the mostly used items from the Player Settings that are used while making or updating Game Builds are presented in this Settings Section.
+- Change Company Name
+- Change Product Name
+- Change Bundle Id
+- Change Build Version
+- Change Build Version Code (Android/iOS)
+
+![](https://github.com/syedshoaibmansoor/Project-Readmes/blob/main/HelperUtility/PlayerSettings.gif)
